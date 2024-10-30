@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Stop Adblock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-09 12:10+0530\n"
+"PO-Revision-Date: 2014-05-24 12:49+0100\n"
+"Last-Translator: codeclan <codeclan@altervista.org>\n"
+"Language-Team: BetterStopAdblock\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: better-stop-adblock.php:88
+msgid ""
+" Messaggio. <br /><br />** Compilare il Testo  &gt;&gt;&gt;<br />( Lasciare "
+"vuoto per Default )"
+msgstr "消息。<br /><br />**编译文本 >>> <br />（留空为默认）"
+
+#: better-stop-adblock.php:96
+msgid " Impostazioni"
+msgstr " 环境"
+
+#: better-stop-adblock.php:106
+msgid "Messaggio. "
+msgstr "信息."
+
+#: better-stop-adblock.php:112
+msgid "Immagine. "
+msgstr "图像。"
+
+#: better-stop-adblock.php:117
+msgid "/uploads/image"
+msgstr ""
+
+#: better-stop-adblock.php:119
+msgid "Url Immagine da Mostrare ai Visitatori. ( Lasciare vuoto per Default )"
+msgstr "图片网址向来宾展示。 （留空为默认）"
+
+#: better-stop-adblock.php:123
+msgid "http://codeclan.altervista.org/"
+msgstr ""
+
+#: better-stop-adblock.php:125
+msgid "Link Redirect Visitatori."
+msgstr "链接重定向访问者。"
+
+#: better-stop-adblock.php:129
+msgid "Titolo del Link."
+msgstr "链接标题。"
+
+#: better-stop-adblock.php:131
+msgid "Titolo da Assegnare al Link Redirect."
+msgstr "标题指定重定向链接。"
+
+#: better-stop-adblock.php:135
+msgid "Tempo in secondi."
+msgstr "时间以秒为单位。"
+
+#: better-stop-adblock.php:137
+msgid ""
+"Tempo di attesa prima di chiudere il blocco. <br />( Lasciare vuoto per "
+"Disattivare )"
+msgstr "时间关闭块之前等待。 <br />（留空则禁用）"
+
+#: better-stop-adblock.php:141
+msgid "Testo Pulsante di Sblocco."
+msgstr "文字按钮解锁。"
+
+#: better-stop-adblock.php:143
+msgid "Testo da Assegnare al Pulsante che Chiude la finestra di Blocco"
+msgstr "文字给那关闭窗口锁定按钮。"
+
+#: better-stop-adblock.php:147 better-stop-adblock.php:153
+msgid "Clicca e seleziona il colore."
+msgstr "单击并选择颜色。 "
+
+#: better-stop-adblock.php:149
+msgid ""
+"Colore di Fondo della finestra di Blocco. ( Clicca e seleziona il colore )"
+msgstr "窗框的背景颜色。 （单击并选择颜色） "
+
+#: better-stop-adblock.php:155
+msgid ""
+"Colore del Testo della finestra di Blocco. ( Clicca e seleziona il colore )"
+msgstr "彩色文本窗口框架。 （单击并选择颜色）"
+
+#: better-stop-adblock.php:159
+msgid "Esempio: 95 (Default) "
+msgstr "例如：95（默认）"
+
+#: better-stop-adblock.php:161
+msgid "Grado di Trasparenza. ( Lasciare vuoto per Default )"
+msgstr "透明的程度。 （留空为默认）"
+
+#: better-stop-adblock.php:157
+msgid "Tempo di attesa prima di Intervenire. ( Lasciare vuoto per Default )"
+msgstr "采取行动之前等待的时间。 （留空为默认）"
+
+#: better-stop-adblock.php:155
+msgid "Tempo millisecondi."
+msgstr "时间毫秒。"
+
+#: better-stop-adblock.php:161
+msgid "Abilitazione Sessione."
+msgstr "启用会话。"
+
+#: better-stop-adblock.php:163
+msgid ""
+"Numero di volte per Sessione prima di intervenire. ( Lasciare vuoto per "
+"Disattivare )"
+msgstr "每节次干预前人数。 （留空则禁用）"
+
+#: better-stop-adblock.php:169
+msgid ""
+"Plugin Abilitato sulle Pagine inserite in URL Pagina. <br />( Se URL Pagina "
+"&eacute; Vuoto, Disabilita il Plugin su tutto il sito )"
+msgstr ""
+"的plugin启用在页面的URL插入页面。 <br />（如果网址页面是空的，禁用插件对全球"
+"网站）"
+
+#: better-stop-adblock.php:175
+msgid ""
+"Plugin Disabilitato sulle Pagine inserite in URL Pagina. <br />( Se URL "
+"Pagina &eacute; Vuoto, Abilita il Plugin su tutto il sito )"
+msgstr ""
+"禁用插件在页面的URL插入页面。 <br />（如果网址页面是空的，启用插件在整个网"
+"站）"
+
+#: better-stop-adblock.php:181
+msgid ""
+"URL Pagina. ( Se vuoto le opzioni riguardano tutto il sito )<br /><br /> "
+"Immettere un URL per ogni riga"
+msgstr "URL 页面。 （如果留空，选项涉及到全球网站）<br/><br/>每行输入一个网址"
+
+#: better-stop-adblock.php:188
+msgid "No Doctype. ( Se il sito non contiene &lt;! DOCTYPE&gt; )"
+msgstr "No Doctype. ( 如果站点不包含 &lt;! DOCTYPE&gt; )"
+
+#: better-stop-adblock.php:188
+msgid "Doctype. ( Se il sito contiene &lt;! DOCTYPE&gt; )"
+msgstr "Doctype. ( 如果网站包含 &lt;! DOCTYPE&gt; )"
+
+#: better-stop-adblock.php:195
+msgid "Seleziona se vuoi far apparire il link dell&#39;autore del plugin."
+msgstr "选择，如果你想提出的插件作者的链接。"
+
+#: bsa-head.php:7
+msgid ""
+"Se il mio lavoro ti &eacute; stato utile e hai riguadagnato i soldi persi,"
+msgstr "如果我的工作一直对你有用，你夺回失去的钱，"
+
+#: bsa-head.php:9
+msgid "perch&eacute; non pensi di offrirmi un bel caff&eacute;?"
+msgstr "你为什么不给我一个很好的咖啡吗？"
+
+#: better-stop-adblock.php:23
+msgid "Url File Audio"
+msgstr "网址音频文件"
+
+#: better-stop-adblock.php:23
+msgid "Ripeti File"
+msgstr "文件重复"

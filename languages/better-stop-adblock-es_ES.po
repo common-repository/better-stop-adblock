@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Stop Adblock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-09 12:10+0530\n"
+"PO-Revision-Date: 2014-05-24 12:32+0100\n"
+"Last-Translator: codeclan <codeclan@altervista.org>\n"
+"Language-Team: BetterStopAdblock\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: better-stop-adblock.php:88
+msgid ""
+" Messaggio. <br /><br />** Compilare il Testo  &gt;&gt;&gt;<br />( Lasciare "
+"vuoto per Default )"
+msgstr ""
+" Enviar. <br /><br />** Introduzca el texto  &gt;&gt;&gt;<br />( Dejar en "
+"blanco para defecto )"
+
+#: better-stop-adblock.php:96
+msgid " Impostazioni"
+msgstr " Configuraci&oacute;n"
+
+#: better-stop-adblock.php:106
+msgid "Messaggio. "
+msgstr "Enviar."
+
+#: better-stop-adblock.php:112
+msgid "Immagine. "
+msgstr "Imagen."
+
+#: better-stop-adblock.php:117
+msgid "/uploads/image"
+msgstr ""
+
+#: better-stop-adblock.php:119
+msgid "Url Immagine da Mostrare ai Visitatori. ( Lasciare vuoto per Default )"
+msgstr ""
+"ImageUrl para Vostrar a los Visitantes. ( Dejar en blanco para defecto )"
+
+#: better-stop-adblock.php:123
+msgid "http://codeclan.altervista.org/"
+msgstr ""
+
+#: better-stop-adblock.php:125
+msgid "Link Redirect Visitatori."
+msgstr "Enlace Redirigir los Visitantes."
+
+#: better-stop-adblock.php:129
+msgid "Titolo del Link."
+msgstr "T&iacute;tulo del Enlace."
+
+#: better-stop-adblock.php:131
+msgid "Titolo da Assegnare al Link Redirect."
+msgstr "T&iacute;tulo asignar Redirigir Enlace."
+
+#: better-stop-adblock.php:135
+msgid "Tempo in secondi."
+msgstr "Tiempo en segundos."
+
+#: better-stop-adblock.php:137
+msgid ""
+"Tempo di attesa prima di chiudere il blocco. <br />( Lasciare vuoto per "
+"Disattivare )"
+msgstr ""
+"Tiempo de espera antes de cerrar el bloque. <br /> ( Dejar en blanco para "
+"desactivar )"
+
+#: better-stop-adblock.php:141
+msgid "Testo Pulsante di Sblocco."
+msgstr "Texto del bot&oacute;n de desbloqueo."
+
+#: better-stop-adblock.php:143
+msgid "Testo da Assegnare al Pulsante che Chiude la finestra di Blocco"
+msgstr "Texto darle al bot&oacute;n que cierra el cierre de la ventana."
+
+#: better-stop-adblock.php:147 better-stop-adblock.php:153
+msgid "Clicca e seleziona il colore."
+msgstr "Haga clic en y seleccione el color."
+
+#: better-stop-adblock.php:149
+msgid ""
+"Colore di Fondo della finestra di Blocco. ( Clicca e seleziona il colore )"
+msgstr ""
+"Color de fondo del marco de la ventana. ( Haga clic en y seleccione el "
+"color )"
+
+#: better-stop-adblock.php:155
+msgid ""
+"Colore del Testo della finestra di Blocco. ( Clicca e seleziona il colore )"
+msgstr ""
+"El color del marco de la ventana de texto. ( Haga clic en y seleccione el "
+"color )"
+
+#: better-stop-adblock.php:159
+msgid "Esempio: 95 (Default) "
+msgstr "Ejemplo: 95 (Default)"
+
+#: better-stop-adblock.php:161
+msgid "Grado di Trasparenza. ( Lasciare vuoto per Default )"
+msgstr "Grado de transparencia. ( Dejar en blanco para defecto )"
+
+#: better-stop-adblock.php:157
+msgid "Tempo di attesa prima di Intervenire. ( Lasciare vuoto per Default )"
+msgstr ""
+"El tiempo de espera antes de intervenir. ( Dejar en blanco para defecto )"
+
+#: better-stop-adblock.php:155
+msgid "Tempo millisecondi."
+msgstr "Milisegundos de tiempo."
+
+#: better-stop-adblock.php:161
+msgid "Abilitazione Sessione."
+msgstr "Habilitaci&oacute;n Sesi&oacute;n."
+
+#: better-stop-adblock.php:163
+msgid ""
+"Numero di volte per Sessione prima di intervenire. ( Lasciare vuoto per "
+"Disattivare )"
+msgstr ""
+"N&uacute;mero de veces por sesi&oacute;n antes de trabajar. ( Dejar en "
+"blanco para defecto )"
+
+#: better-stop-adblock.php:169
+msgid ""
+"Plugin Abilitato sulle Pagine inserite in URL Pagina. <br />( Se URL Pagina "
+"&eacute; Vuoto, Disabilita il Plugin su tutto il sito )"
+msgstr ""
+"Plugin Habilitado en las páginas insertadas en la página URL. <br /> ( Si la "
+"URL est&aacute; vac&iacute;o de p&aacute;gina, deshabilitar el plugin en "
+"todo el sitio )"
+
+#: better-stop-adblock.php:175
+msgid ""
+"Plugin Disabilitato sulle Pagine inserite in URL Pagina. <br />( Se URL "
+"Pagina &eacute; Vuoto, Abilita il Plugin su tutto il sito )"
+msgstr ""
+"Plugins de movilidad en las páginas insertadas en la página URL. <br /> ( Si "
+"la URL est&aacute; vac&iacute;o de p&aacute;gina, Activar el plugin en todo "
+"el sitio )"
+
+#: better-stop-adblock.php:181
+msgid ""
+"URL Pagina. ( Se vuoto le opzioni riguardano tutto il sito )<br /><br /> "
+"Immettere un URL per ogni riga"
+msgstr ""
+"URL de la p&aacute;gina. ( Si est&aacute; vac&iacute;o, las opciones se "
+"refieren a todo el sitio )<br /><br /> Ingrese una URL por línea"
+
+#: better-stop-adblock.php:188
+msgid "No Doctype. ( Se il sito non contiene &lt;! DOCTYPE&gt; )"
+msgstr "No Doctype. ( Si el sitio no contiene &lt;! DOCTYPE&gt; )"
+
+#: better-stop-adblock.php:188
+msgid "Doctype. ( Se il sito contiene &lt;! DOCTYPE&gt; )"
+msgstr "Doctype. ( Si el sitio contiene &lt;! DOCTYPE&gt; )"
+
+#: better-stop-adblock.php:195
+msgid "Seleziona se vuoi far apparire il link dell&#39;autore del plugin."
+msgstr "Seleccione si desea que aparezca el enlace del autor del plugin."
+
+#: bsa-head.php:7
+msgid ""
+"Se il mio lavoro ti &eacute; stato utile e hai riguadagnato i soldi persi,"
+msgstr ""
+"Si mi trabajo ha sido &uacute;til para usted y usted recuperar el dinero "
+"perdido,"
+
+#: bsa-head.php:9
+msgid "perch&eacute; non pensi di offrirmi un bel caff&eacute;?"
+msgstr "&#380;por qu&eacute; no me ofrece un buen caf&eacute;?"
+
+#: better-stop-adblock.php:23
+msgid "Url File Audio"
+msgstr "Archivo de audio Url"
+
+#: better-stop-adblock.php:23
+msgid "Ripeti File"
+msgstr "Repetici&oacute;n de Archivo"

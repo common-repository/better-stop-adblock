@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Stop Adblock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-09 12:10+0530\n"
+"PO-Revision-Date: 2014-05-24 12:36+0100\n"
+"Last-Translator: codeclan <codeclan@altervista.org>\n"
+"Language-Team: BetterStopAdblock\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: hu_HU\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: better-stop-adblock.php:88
+msgid ""
+" Messaggio. <br /><br />** Compilare il Testo  &gt;&gt;&gt;<br />( Lasciare "
+"vuoto per Default )"
+msgstr ""
+" üzenet. <br /><br />** Fordítsuk le a Text &gt;&gt;&gt;<br />( Hagyja "
+"üresen az alapértelmezett )"
+
+#: better-stop-adblock.php:96
+msgid " Impostazioni"
+msgstr " Beállítások"
+
+#: better-stop-adblock.php:106
+msgid "Messaggio. "
+msgstr "üzenet."
+
+#: better-stop-adblock.php:112
+msgid "Immagine. "
+msgstr "Kép."
+
+#: better-stop-adblock.php:117
+msgid "/uploads/image"
+msgstr ""
+
+#: better-stop-adblock.php:119
+msgid "Url Immagine da Mostrare ai Visitatori. ( Lasciare vuoto per Default )"
+msgstr "Kép Url mutatni a látogatók. ( Hagyd üresen alapértelmezett )"
+
+#: better-stop-adblock.php:123
+msgid "http://codeclan.altervista.org/"
+msgstr ""
+
+#: better-stop-adblock.php:125
+msgid "Link Redirect Visitatori."
+msgstr "Hivatkozás átirányítani a látogatókat."
+
+#: better-stop-adblock.php:129
+msgid "Titolo del Link."
+msgstr "Link címe."
+
+#: better-stop-adblock.php:131
+msgid "Titolo da Assegnare al Link Redirect."
+msgstr "Cím hozzárendelése átirányítás link."
+
+#: better-stop-adblock.php:135
+msgid "Tempo in secondi."
+msgstr "Idő másodpercben."
+
+#: better-stop-adblock.php:137
+msgid ""
+"Tempo di attesa prima di chiudere il blocco. <br />( Lasciare vuoto per "
+"Disattivare )"
+msgstr "Várakozási idő lezárása előtt a blokk. <br /> ( Hagyd üresen tiltani )"
+
+#: better-stop-adblock.php:141
+msgid "Testo Pulsante di Sblocco."
+msgstr "Text gomb kiengedés."
+
+#: better-stop-adblock.php:143
+msgid "Testo da Assegnare al Pulsante che Chiude la finestra di Blocco"
+msgstr "Szöveget, hogy a gombot, hogy bezárja az ablakot Lock."
+
+#: better-stop-adblock.php:147 better-stop-adblock.php:153
+msgid "Clicca e seleziona il colore."
+msgstr "Kattintson és válassza ki a színt."
+
+#: better-stop-adblock.php:149
+msgid ""
+"Colore di Fondo della finestra di Blocco. ( Clicca e seleziona il colore )"
+msgstr "Háttérszíne az ablakkeret. (Kattintson és válassza ki a színt)"
+
+#: better-stop-adblock.php:155
+msgid ""
+"Colore del Testo della finestra di Blocco. ( Clicca e seleziona il colore )"
+msgstr "A szöveg színét ablakkeret. (Kattintson és válassza ki a színt)"
+
+#: better-stop-adblock.php:159
+msgid "Esempio: 95 (Default) "
+msgstr "Példa: 95. (Alapértelmezett)"
+
+#: better-stop-adblock.php:161
+msgid "Grado di Trasparenza. ( Lasciare vuoto per Default )"
+msgstr "Átláthatóságot. ( Hagyd üresen alapértelmezett )"
+
+#: better-stop-adblock.php:157
+msgid "Tempo di attesa prima di Intervenire. ( Lasciare vuoto per Default )"
+msgstr "Várakozási idő cselekedni. ( Hagyd üresen alapértelmezett )"
+
+#: better-stop-adblock.php:155
+msgid "Tempo millisecondi."
+msgstr "Idő milliszekundum."
+
+#: better-stop-adblock.php:161
+msgid "Abilitazione Sessione."
+msgstr "Engedélyezése Session."
+
+#: better-stop-adblock.php:163
+msgid ""
+"Numero di volte per Sessione prima di intervenire. ( Lasciare vuoto per "
+"Disattivare )"
+msgstr ""
+"Számú alkalommal egy ülésszak előtt beavatkozna. ( Hagyja üresen tiltani )"
+
+#: better-stop-adblock.php:169
+msgid ""
+"Plugin Abilitato sulle Pagine inserite in URL Pagina. <br />( Se URL Pagina "
+"&eacute; Vuoto, Disabilita il Plugin su tutto il sito )"
+msgstr ""
+"Bővítmények engedélyezve oldalakon helyezve oldal URL. <br /> ( Ha az URL "
+"Oldal üres, Disable Plugin a globális oldalon )"
+
+#: better-stop-adblock.php:175
+msgid ""
+"Plugin Disabilitato sulle Pagine inserite in URL Pagina. <br />( Se URL "
+"Pagina &eacute; Vuoto, Abilita il Plugin su tutto il sito )"
+msgstr ""
+"Tiltott plugins oldalon helyezve oldal URL. <br /> ( Ha az URL Oldal üres, "
+"engedélyezése Plugin az egész oldal )"
+
+#: better-stop-adblock.php:181
+msgid ""
+"URL Pagina. ( Se vuoto le opzioni riguardano tutto il sito )<br /><br /> "
+"Immettere un URL per ogni riga"
+msgstr ""
+"URL oldal. ( Ha üresen hagyja, a lehetőségek kapcsolódnak a globális "
+"hely )<br /><br /> Írjon be egy URL soronként"
+
+#: better-stop-adblock.php:188
+msgid "No Doctype. ( Se il sito non contiene &lt;! DOCTYPE&gt; )"
+msgstr "No Doctype. ( Ha az oldal nem tartalmaz &lt;! DOCTYPE&gt; )"
+
+#: better-stop-adblock.php:188
+msgid "Doctype. ( Se il sito contiene &lt;! DOCTYPE&gt; )"
+msgstr "Doctype. ( Ha az oldal tartalmaz &lt;! DOCTYPE&gt; )"
+
+#: better-stop-adblock.php:195
+msgid "Seleziona se vuoi far apparire il link dell&#39;autore del plugin."
+msgstr ""
+"Válassza ki, ha szeretné, hogy hozza fel a kapcsolatot a szerző a plugin."
+
+#: bsa-head.php:7
+msgid ""
+"Se il mio lavoro ti &eacute; stato utile e hai riguadagnato i soldi persi,"
+msgstr ""
+"Ha a munka nem volt hasznos az Ön számára, és visszanyerni az elvesztett "
+"pénzt,"
+
+#: bsa-head.php:9
+msgid "perch&eacute; non pensi di offrirmi un bel caff&eacute;?"
+msgstr "miért nem kínál nekem egy jó kávét?"
+
+#: better-stop-adblock.php:23
+msgid "Url File Audio"
+msgstr "Url Audio File"
+
+#: better-stop-adblock.php:23
+msgid "Ripeti File"
+msgstr "fájl ismétlése"

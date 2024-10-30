@@ -1,0 +1,10 @@
+#bsa-logo{width:100%;display:block;padding-bottom:1em;border-bottom:1px dashed #D71212;text-align:center;font-size:14px;margin-top:2em;}
+#bsa-logo a{text-transform:uppercase;color:#D71212;text-decoration:none;  width:50%;}
+.bsa-form-table{width:100%;margin:1em auto;}
+.bsa-form-table td{line-height:18px;color:#444;width:50%;font-size:14px;}
+.bsa-form-table hr{border:1px dotted red;}
+.bsa-form-table td b{font-size:24px;}
+input#bsa-input{margin-top:2%;margin-bottom:2%;width:100%;font-size:12px;}
+input#bsa-input-box-on, input#bsa-input-box-off{margin-left:20%;}
+input#bsa-mes, input#bsa-img, input#bsa-urlsingle, input#bsa-urlall, #bsa-no-doctype, #bsa-doctype{margin-left:50%;}
+.bsa-submit{text-align:center;}

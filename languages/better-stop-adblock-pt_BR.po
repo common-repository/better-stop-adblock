@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Stop Adblock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-09 12:10+0530\n"
+"PO-Revision-Date: 2014-05-24 12:44+0100\n"
+"Last-Translator: codeclan <codeclan@altervista.org>\n"
+"Language-Team: BetterStopAdblock\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: better-stop-adblock.php:88
+msgid ""
+" Messaggio. <br /><br />** Compilare il Testo  &gt;&gt;&gt;<br />( Lasciare "
+"vuoto per Default )"
+msgstr ""
+" Mensagem. <br /><br />** Compilar o texto &gt;&gt;&gt;<br />( Deixe em "
+"branco para Padrão )"
+
+#: better-stop-adblock.php:96
+msgid " Impostazioni"
+msgstr " Configurações"
+
+#: better-stop-adblock.php:106
+msgid "Messaggio. "
+msgstr "Mensagem."
+
+#: better-stop-adblock.php:112
+msgid "Immagine. "
+msgstr "Imagem."
+
+#: better-stop-adblock.php:117
+msgid "/uploads/image"
+msgstr ""
+
+#: better-stop-adblock.php:119
+msgid "Url Immagine da Mostrare ai Visitatori. ( Lasciare vuoto per Default )"
+msgstr ""
+"URL da imagem para mostrar aos visitantes. ( Deixe em branco para Padrão )"
+
+#: better-stop-adblock.php:123
+msgid "http://codeclan.altervista.org/"
+msgstr ""
+
+#: better-stop-adblock.php:125
+msgid "Link Redirect Visitatori."
+msgstr "Ligação redirecionar os visitantes."
+
+#: better-stop-adblock.php:129
+msgid "Titolo del Link."
+msgstr "Ligação título."
+
+#: better-stop-adblock.php:131
+msgid "Titolo da Assegnare al Link Redirect."
+msgstr "Título atribuir Redirect ligação."
+
+#: better-stop-adblock.php:135
+msgid "Tempo in secondi."
+msgstr "Tempo em segundos."
+
+#: better-stop-adblock.php:137
+msgid ""
+"Tempo di attesa prima di chiudere il blocco. <br />( Lasciare vuoto per "
+"Disattivare )"
+msgstr ""
+"Tempo de espera antes de fechar o bloco. <br /> ( Deixe em branco para "
+"desabilitar )"
+
+#: better-stop-adblock.php:141
+msgid "Testo Pulsante di Sblocco."
+msgstr "Texto do botão de desbloqueio."
+
+#: better-stop-adblock.php:143
+msgid "Testo da Assegnare al Pulsante che Chiude la finestra di Blocco"
+msgstr "Texto para dar o botão que fecha a janela de bloqueio."
+
+#: better-stop-adblock.php:147 better-stop-adblock.php:153
+msgid "Clicca e seleziona il colore."
+msgstr "Clique e selecione a cor. "
+
+#: better-stop-adblock.php:149
+msgid ""
+"Colore di Fondo della finestra di Blocco. ( Clicca e seleziona il colore )"
+msgstr "Cor de fundo da moldura da janela. (Clique e selecione a cor) "
+
+#: better-stop-adblock.php:155
+msgid ""
+"Colore del Testo della finestra di Blocco. ( Clicca e seleziona il colore )"
+msgstr "Cor da moldura da janela de texto. (Clique e selecione a cor)"
+
+#: better-stop-adblock.php:159
+msgid "Esempio: 95 (Default) "
+msgstr "Exemplo: 95 (Padrão)"
+
+#: better-stop-adblock.php:161
+msgid "Grado di Trasparenza. ( Lasciare vuoto per Default )"
+msgstr "Grau de transparência. ( Deixe em branco para Padrão )"
+
+#: better-stop-adblock.php:157
+msgid "Tempo di attesa prima di Intervenire. ( Lasciare vuoto per Default )"
+msgstr "Tempo de espera antes da ação tomar. ( Deixe em branco para Padrão )"
+
+#: better-stop-adblock.php:155
+msgid "Tempo millisecondi."
+msgstr "Milissegundos Tempo."
+
+#: better-stop-adblock.php:161
+msgid "Abilitazione Sessione."
+msgstr "Ativar Session."
+
+#: better-stop-adblock.php:163
+msgid ""
+"Numero di volte per Sessione prima di intervenire. ( Lasciare vuoto per "
+"Disattivare )"
+msgstr ""
+"Número de vezes por sessão antes de intervir. ( Deixe em branco para "
+"desabilitar )"
+
+#: better-stop-adblock.php:169
+msgid ""
+"Plugin Abilitato sulle Pagine inserite in URL Pagina. <br />( Se URL Pagina "
+"&eacute; Vuoto, Disabilita il Plugin su tutto il sito )"
+msgstr ""
+"Plugin Ativado em páginas inseridas na página URL. <br /> ( Se URL da página "
+"é vazio, Disable Plugin no site global )"
+
+#: better-stop-adblock.php:175
+msgid ""
+"Plugin Disabilitato sulle Pagine inserite in URL Pagina. <br />( Se URL "
+"Pagina &eacute; Vuoto, Abilita il Plugin su tutto il sito )"
+msgstr ""
+"Plugins desativado em páginas inseridas na página URL. <br /> ( Se URL da "
+"página é vazio, Ativar Plugin em todo o site )"
+
+#: better-stop-adblock.php:181
+msgid ""
+"URL Pagina. ( Se vuoto le opzioni riguardano tutto il sito )<br /><br /> "
+"Immettere un URL per ogni riga"
+msgstr ""
+"URL da página. ( Se for deixado em branco, as opções dizem respeito ao site "
+"global )<br /><br /> Digite um URL por linha"
+
+#: better-stop-adblock.php:188
+msgid "No Doctype. ( Se il sito non contiene &lt;! DOCTYPE&gt; )"
+msgstr "No Doctype. ( Se o sítio não contêm &lt;! DOCTYPE&gt; )"
+
+#: better-stop-adblock.php:188
+msgid "Doctype. ( Se il sito contiene &lt;! DOCTYPE&gt; )"
+msgstr "Doctype. ( Se o site contiver &lt;! DOCTYPE&gt; )"
+
+#: better-stop-adblock.php:195
+msgid "Seleziona se vuoi far apparire il link dell&#39;autore del plugin."
+msgstr "Escolha se você quiser abrir o link do autor do plugin."
+
+#: bsa-head.php:7
+msgid ""
+"Se il mio lavoro ti &eacute; stato utile e hai riguadagnato i soldi persi,"
+msgstr ""
+"Se o meu trabalho tem sido útil para você e você recuperar o dinheiro "
+"perdido,"
+
+#: bsa-head.php:9
+msgid "perch&eacute; non pensi di offrirmi un bel caff&eacute;?"
+msgstr "por que você não me oferecer um bom café?"
+
+#: better-stop-adblock.php:23
+msgid "Url File Audio"
+msgstr "URL do arquivo de áudio"
+
+#: better-stop-adblock.php:23
+msgid "Ripeti File"
+msgstr "Repita Arquivo"

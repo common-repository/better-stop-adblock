@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Stop Adblock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-09 12:10+0530\n"
+"PO-Revision-Date: 2014-05-24 12:41+0100\n"
+"Last-Translator: codeclan <codeclan@altervista.org>\n"
+"Language-Team: BetterStopAdblock\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: ph_PH\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: better-stop-adblock.php:88
+msgid ""
+" Messaggio. <br /><br />** Compilare il Testo  &gt;&gt;&gt;<br />( Lasciare "
+"vuoto per Default )"
+msgstr ""
+" Mensahe. <br /><br />** Compile ang Teksto &gt;&gt;&gt;<br />( Iwanang "
+"blangko para sa default )"
+
+#: better-stop-adblock.php:96
+msgid " Impostazioni"
+msgstr "Kapaligiran"
+
+#: better-stop-adblock.php:106
+msgid "Messaggio. "
+msgstr "Mensahe."
+
+#: better-stop-adblock.php:112
+msgid "Immagine. "
+msgstr "Larawan."
+
+#: better-stop-adblock.php:117
+msgid "/uploads/image"
+msgstr ""
+
+#: better-stop-adblock.php:119
+msgid "Url Immagine da Mostrare ai Visitatori. ( Lasciare vuoto per Default )"
+msgstr ""
+"Url ng Larawan upang ipakita ang mga bisita. ( Iwanang blangko para sa "
+"default )"
+
+#: better-stop-adblock.php:123
+msgid "http://codeclan.altervista.org/"
+msgstr ""
+
+#: better-stop-adblock.php:125
+msgid "Link Redirect Visitatori."
+msgstr "Link Pag-redirect ng Bisita."
+
+#: better-stop-adblock.php:129
+msgid "Titolo del Link."
+msgstr "Pamagat ng Link."
+
+#: better-stop-adblock.php:131
+msgid "Titolo da Assegnare al Link Redirect."
+msgstr "Pamagat upang Magtalaga-redirect ng Link."
+
+#: better-stop-adblock.php:135
+msgid "Tempo in secondi."
+msgstr "Oras sa ilang segundo."
+
+#: better-stop-adblock.php:137
+msgid ""
+"Tempo di attesa prima di chiudere il blocco. <br />( Lasciare vuoto per "
+"Disattivare )"
+msgstr ""
+"Oras upang maghintay bago isara ang bloke. <br /> ( Iwanang blangko upang "
+"huwag paganahin )"
+
+#: better-stop-adblock.php:141
+msgid "Testo Pulsante di Sblocco."
+msgstr "Unlock Button Teksto."
+
+#: better-stop-adblock.php:143
+msgid "Testo da Assegnare al Pulsante che Chiude la finestra di Blocco"
+msgstr "Teksto sa Bigyan ang pindutan na isinasara ang window I-lock."
+
+#: better-stop-adblock.php:147 better-stop-adblock.php:153
+msgid "Clicca e seleziona il colore."
+msgstr "I-click at piliin ang kulay. "
+
+#: better-stop-adblock.php:149
+msgid ""
+"Colore di Fondo della finestra di Blocco. ( Clicca e seleziona il colore )"
+msgstr ""
+"Kulay ng background ng window frame. (I-click at piliin ang mga kulay) "
+
+#: better-stop-adblock.php:155
+msgid ""
+"Colore del Testo della finestra di Blocco. ( Clicca e seleziona il colore )"
+msgstr "Kulay ng window ng teksto ng frame. (I-click at piliin ang mga kulay)"
+
+#: better-stop-adblock.php:159
+msgid "Esempio: 95 (Default) "
+msgstr "Halimbawa: 95 (Default)"
+
+#: better-stop-adblock.php:161
+msgid "Grado di Trasparenza. ( Lasciare vuoto per Default )"
+msgstr "Degree ng Transparency. ( Iwanang blangko para sa default )"
+
+#: better-stop-adblock.php:157
+msgid "Tempo di attesa prima di Intervenire. ( Lasciare vuoto per Default )"
+msgstr ""
+"Oras sa paghihintay bago pagkilos tumagal. ( Iwanang blangko para sa "
+"default )"
+
+#: better-stop-adblock.php:155
+msgid "Tempo millisecondi."
+msgstr "Oras millisecond."
+
+#: better-stop-adblock.php:161
+msgid "Abilitazione Sessione."
+msgstr "Paganahin ang Session."
+
+#: better-stop-adblock.php:163
+msgid ""
+"Numero di volte per Sessione prima di intervenire. ( Lasciare vuoto per "
+"Disattivare )"
+msgstr ""
+"Bilang ng mga beses sa bawat sesyon bago pumapagitang. ( Iwanang blangko "
+"upang huwag paganahin )"
+
+#: better-stop-adblock.php:169
+msgid ""
+"Plugin Abilitato sulle Pagine inserite in URL Pagina. <br />( Se URL Pagina "
+"&eacute; Vuoto, Disabilita il Plugin su tutto il sito )"
+msgstr ""
+"Plugin Pinagana sa mga pahina ng nakapasok sa URL ng pahina. <br /> ( Kung "
+"Pahina URL ay Walang Laman, Huwag paganahin ang Plugin sa pandaigdigang "
+"site )"
+
+#: better-stop-adblock.php:175
+msgid ""
+"Plugin Disabilitato sulle Pagine inserite in URL Pagina. <br />( Se URL "
+"Pagina &eacute; Vuoto, Abilita il Plugin su tutto il sito )"
+msgstr ""
+"Hindi pinagana ang mga plugin sa mga pahina ng nakapasok sa URL ng pahina. "
+"<br /> ( Kung Pahina URL ay Walang Laman, Paganahin Plugin sa buong site )"
+
+#: better-stop-adblock.php:181
+msgid ""
+"URL Pagina. ( Se vuoto le opzioni riguardano tutto il sito )<br /><br /> "
+"Immettere un URL per ogni riga"
+msgstr ""
+"Pahina ng URL. (Kung iwanang blangko, iugnay ang mga pagpipilian sa "
+"pandaigdigang site)<br /><br /> Magpasok ng isang URL sa bawat linya"
+
+#: better-stop-adblock.php:188
+msgid "No Doctype. ( Se il sito non contiene &lt;! DOCTYPE&gt; )"
+msgstr "No Doctype. ( Kung ang site ay hindi naglalaman ng &lt;! DOCTYPE&gt; )"
+
+#: better-stop-adblock.php:188
+msgid "Doctype. ( Se il sito contiene &lt;! DOCTYPE&gt; )"
+msgstr "Doctype. ( Kung naglalaman ang site &lt;! DOCTYPE&gt; )"
+
+#: better-stop-adblock.php:195
+msgid "Seleziona se vuoi far apparire il link dell&#39;autore del plugin."
+msgstr "Piliin kung gusto mong ilabas ang link ng mga may-akda ng plugin."
+
+#: bsa-head.php:7
+msgid ""
+"Se il mio lavoro ti &eacute; stato utile e hai riguadagnato i soldi persi,"
+msgstr ""
+"Kung ang aking trabaho ay naging kapaki-pakinabang sa iyo at ikaw mabawi ang "
+"nawalang pera,"
+
+#: bsa-head.php:9
+msgid "perch&eacute; non pensi di offrirmi un bel caff&eacute;?"
+msgstr "bakit hindi nag-aalok ka sa akin sa isang masarap na kape?"
+
+#: better-stop-adblock.php:23
+msgid "Url File Audio"
+msgstr "Url Audio File"
+
+#: better-stop-adblock.php:23
+msgid "Ripeti File"
+msgstr "Ulitin ang mga file"

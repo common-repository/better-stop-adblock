@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Stop Adblock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-09 12:10+0530\n"
+"PO-Revision-Date: 2014-05-24 12:33+0100\n"
+"Last-Translator: codeclan <codeclan@altervista.org>\n"
+"Language-Team: BetterStopAdblock\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: fr_CA\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: better-stop-adblock.php:88
+msgid ""
+" Messaggio. <br /><br />** Compilare il Testo  &gt;&gt;&gt;<br />( Lasciare "
+"vuoto per Default )"
+msgstr ""
+" Message. <br /><br />** Compiler le texte  &gt;&gt;&gt;<br />( Laisser en "
+"blanc pour D&eacute;faut )"
+
+#: better-stop-adblock.php:96
+msgid " Impostazioni"
+msgstr " R&eacute;glages"
+
+#: better-stop-adblock.php:106
+msgid "Messaggio. "
+msgstr "Message."
+
+#: better-stop-adblock.php:112
+msgid "Immagine. "
+msgstr "Image."
+
+#: better-stop-adblock.php:117
+msgid "/uploads/image"
+msgstr ""
+
+#: better-stop-adblock.php:119
+msgid "Url Immagine da Mostrare ai Visitatori. ( Lasciare vuoto per Default )"
+msgstr ""
+"URL de l&#39;Image &agrave; Montrer aux Visiteurs. ( Laisser en blanc pour "
+"D&eacute;faut )"
+
+#: better-stop-adblock.php:123
+msgid "http://codeclan.altervista.org/"
+msgstr ""
+
+#: better-stop-adblock.php:125
+msgid "Link Redirect Visitatori."
+msgstr "Lien Rediriger les Visiteurs."
+
+#: better-stop-adblock.php:129
+msgid "Titolo del Link."
+msgstr "Titre du Lien."
+
+#: better-stop-adblock.php:131
+msgid "Titolo da Assegnare al Link Redirect."
+msgstr "Titre Affectation Rediriger R&eacute;f&eacute;rence."
+
+#: better-stop-adblock.php:135
+msgid "Tempo in secondi."
+msgstr "Temps en secondes."
+
+#: better-stop-adblock.php:137
+msgid ""
+"Tempo di attesa prima di chiudere il blocco. <br />( Lasciare vuoto per "
+"Disattivare )"
+msgstr ""
+"Temps d&#39;attente avant la fermeture du bloc. <br /> ( Laisser en blanc "
+"pour d&eacute;sactiver )"
+
+#: better-stop-adblock.php:141
+msgid "Testo Pulsante di Sblocco."
+msgstr "Texte du bouton D&eacute;bloquer."
+
+#: better-stop-adblock.php:143
+msgid "Testo da Assegnare al Pulsante che Chiude la finestra di Blocco"
+msgstr "Texte pour donner le bouton qui ferme le verrou de la fen&#281;tre."
+
+#: better-stop-adblock.php:147 better-stop-adblock.php:153
+msgid "Clicca e seleziona il colore."
+msgstr "Cliquez sur et sélectionnez la couleur."
+
+#: better-stop-adblock.php:149
+msgid ""
+"Colore di Fondo della finestra di Blocco. ( Clicca e seleziona il colore )"
+msgstr ""
+"La couleur de fond du cadre de la fenêtre. (Cliquez sur et sélectionnez la "
+"couleur)"
+
+#: better-stop-adblock.php:155
+msgid ""
+"Colore del Testo della finestra di Blocco. ( Clicca e seleziona il colore )"
+msgstr ""
+"Couleur du cadre de la fenêtre de texte. (Cliquez sur et sélectionnez la "
+"couleur)"
+
+#: better-stop-adblock.php:159
+msgid "Esempio: 95 (Default) "
+msgstr "Exemple: 95 (Default)"
+
+#: better-stop-adblock.php:161
+msgid "Grado di Trasparenza. ( Lasciare vuoto per Default )"
+msgstr "Degr&eacute; de transparence. ( Laisser en blanc pour D&eacute;faut )"
+
+#: better-stop-adblock.php:157
+msgid "Tempo di attesa prima di Intervenire. ( Lasciare vuoto per Default )"
+msgstr ""
+"Le temps d&#39;attente avant Agissez. (Laisser en blanc pour D&eacute;faut)"
+
+#: better-stop-adblock.php:155
+msgid "Tempo millisecondi."
+msgstr "Temps millisecondes."
+
+#: better-stop-adblock.php:161
+msgid "Abilitazione Sessione."
+msgstr "Activer Session."
+
+#: better-stop-adblock.php:163
+msgid ""
+"Numero di volte per Sessione prima di intervenire. ( Lasciare vuoto per "
+"Disattivare )"
+msgstr ""
+"Nombre de fois par Session avant d&#39;intervenir. (Laisser en blanc to "
+"disable)"
+
+#: better-stop-adblock.php:169
+msgid ""
+"Plugin Abilitato sulle Pagine inserite in URL Pagina. <br />( Se URL Pagina "
+"&eacute; Vuoto, Disabilita il Plugin su tutto il sito )"
+msgstr ""
+"Plugin Activé sur les pages insérées dans la page URL. <br /> (Si URL page "
+"est vide, D&eacute;sactiver Plugin sur le site global)"
+
+#: better-stop-adblock.php:175
+msgid ""
+"Plugin Disabilitato sulle Pagine inserite in URL Pagina. <br />( Se URL "
+"Pagina &eacute; Vuoto, Abilita il Plugin su tutto il sito )"
+msgstr ""
+"Plugins mobilité sur les pages insérées dans la page URL. <br /> (Si URL "
+"page est vide, Enable Plugin sur le ensemble du site)"
+
+#: better-stop-adblock.php:181
+msgid ""
+"URL Pagina. ( Se vuoto le opzioni riguardano tutto il sito )<br /><br /> "
+"Immettere un URL per ogni riga"
+msgstr ""
+"URL Page. (If left blank, the options relate to global site)<br /><br /> "
+"Entrez une URL par ligne"
+
+#: better-stop-adblock.php:188
+msgid "No Doctype. ( Se il sito non contiene &lt;! DOCTYPE&gt; )"
+msgstr "No Doctype. ( Si le site ne contient pas &lt;! DOCTYPE&gt; )"
+
+#: better-stop-adblock.php:188
+msgid "Doctype. ( Se il sito contiene &lt;! DOCTYPE&gt; )"
+msgstr "Doctype. ( Si le site contient &lt;! DOCTYPE&gt; )"
+
+#: better-stop-adblock.php:195
+msgid "Seleziona se vuoi far apparire il link dell&#39;autore del plugin."
+msgstr ""
+"S&eacute;lectionnez si vous voulez faire appara&icirc;tre le lien de l&#39;"
+"auteur du plugin."
+
+#: bsa-head.php:7
+msgid ""
+"Se il mio lavoro ti &eacute; stato utile e hai riguadagnato i soldi persi,"
+msgstr ""
+"Si mon travail a &eacute;t&eacute; utile pour vous et vous regagner l&#39;"
+"argent perdu,"
+
+#: bsa-head.php:9
+msgid "perch&eacute; non pensi di offrirmi un bel caff&eacute;?"
+msgstr "pourquoi tu ne me proposez pas un bon caf&eacute;?"
+
+#: better-stop-adblock.php:23
+msgid "Url File Audio"
+msgstr "Url fichier audio"
+
+#: better-stop-adblock.php:23
+msgid "Ripeti File"
+msgstr "R&eacute;p&eacute;tition de fichier"
